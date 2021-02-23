@@ -1,6 +1,6 @@
 **Summary**
 
-To continue the work started by the Cat Herders in September 2020, Trent Van Epps has gathered sentiment on EIP-1559 from leading Ethereum applications. The success of the Ethereum ecosystem is tightly linked to the builders and applications it hosts. As such, it is important to catalog the community perspective for Core Devs and client implementers to consider.
+To continue the work started by the Cat Herders in September 2020, Trent Van Epps has gathered sentiment on EIP-1559 from leading Ethereum applications. Because the success of the Ethereum ecosystem is tightly linked to its builders and applications, it's important to catalog their perspectives for Core Devs to consider as part of their process.
 
 Outreach started on Jan 25 with the top 10 ranking of DeFiPulse Total Value Locked (TVL). Sentiment gathering and education is ongoing. We have also added projects that signaled via [SupportEIP1559.org](https://supporteip1559.org/) to this repo.
 
